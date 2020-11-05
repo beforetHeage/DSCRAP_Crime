@@ -5,5 +5,6 @@ By analyzing the results from the dataset we can obtain some valuable data on th
 In this example we analyze the whole dataset from different standpoints and obtain all necessary variables, which further defines our plots, graphs and different 
 illustrative materials.
 ### Important note
-#### Some parts of the illustrative files inside ipynb could be missed or deprecated due to constant updates.
-#### In order to see the full material you need to go to .html file to see the Data analysis.
+#### Some parts of the illustrative files inside ipynb could be missed or deprecated due to constant updates.In order to see the full material you need to go to .html file to see the Data analysis.
+
+##### Apparently, I forgot to change the name of the previous ipynb file and made the same filename and uploaded, so that GitHub deleted previous project that had the same name
